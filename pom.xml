@@ -20,7 +20,7 @@
         <dependency>
             <groupId>com.github.rioghnachQuinnOBaoighill</groupId>
             <artifactId>Assignment1</artifactId>
-            <version>56b4e83</version>
+            <version>129c6e2</version>
             <type>jar</type>
         </dependency>
     </dependencies>

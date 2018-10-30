@@ -19,7 +19,7 @@ public class Assign1Pull {
         Student stu2 = new Student("Molly Burke", 23, 15358557, "26/2/1995", "4BP1");
         Student stu3 = new Student("Eoin Farnin", 23, 15358557, "26/2/1995", "4BP1");
         Student stu4 = new Student("Eibhin Smith", 25, 15387188, "17/8/1993", "4BG1");
-        Student stu5 = new Student("josh Flannery", 21, 19996388, "17/8/1997", "4BG1");
+        Student stu5 = new Student("Josh Farrell", 21, 19996388, "17/8/1997", "4BG1");
         Student stu6 = new Student("James Murphy", 19, 15456825, "17/8/1999", "4BG1");
 
         //ArrayList for students of 4BP1
